@@ -2,6 +2,9 @@
 
 Official website for RMB Remodeling Brothers LLC.
 
-Serving Northeast Ohio with remodeling, flooring, and property improvements.
+## Files
+- index.html
+- style.css
 
-Est. 2023
+## Publish
+Use GitHub Pages and deploy from the main branch /root folder.
