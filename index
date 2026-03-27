@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RMB Remodeling Brothers LLC</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>RMB Remodeling Brothers LLC</h1>
+  <p>Reliable. Skilled. Built to Last.</p>
+  <p>Est. 2023 | Northeast Ohio</p>
+</header>
+
+<section class="hero">
+  <h2>Professional Remodeling & Flooring Services</h2>
+  <p>Serving Cuyahoga County and surrounding areas</p>
+  <a href="#contact" class="btn">Request a Quote</a>
+</section>
+
+<section>
+  <h2>About Us</h2>
+  <p>
+    RMB Remodeling Brothers LLC is built on craftsmanship, reliability,
+    and real-world experience. We specialize in remodeling, flooring,
+    and property improvements done right the first time.
+  </p>
+</section>
+
+<section>
+  <h2>Services</h2>
+  <ul>
+    <li>Flooring Installation</li>
+    <li>Kitchen Remodeling</li>
+    <li>Bathroom Remodeling</li>
+    <li>Drywall & Finishing</li>
+    <li>Property Turnovers</li>
+    <li>General Home Improvements</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Our Work</h2>
+  <p>View our projects on Pinterest:</p>
+  <a href="https://pin.it/2AeW9dpfg" target="_blank">View Gallery</a>
+</section>
+
+<section>
+  <h2>Why Choose Us</h2>
+  <ul>
+    <li>Straightforward Pricing</li>
+    <li>Reliable Communication</li>
+    <li>Quality Workmanship</li>
+    <li>Local & Trusted</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>Phone: (ADD YOUR NUMBER)</p>
+  <p>Email: (ADD YOUR EMAIL)</p>
+</section>
+
+<footer>
+  <p>© 2026 RMB Remodeling Brothers LLC</p>
+</footer>
+
+</body>
+</html>
